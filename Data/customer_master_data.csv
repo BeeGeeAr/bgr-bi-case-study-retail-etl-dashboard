@@ -1,0 +1,21 @@
+CustomerID,CustomerName,Region,Industry,CustomerTier
+CUST200,Customer 1,NCR,Retail,Gold
+CUST201,Customer 2,NCR,Wholesale,Platinum
+CUST202,Customer 3,Visayas,Manufacturing,Gold
+CUST203,Customer 4,CALABARZON,E-commerce,Platinum
+CUST204,Customer 5,CALABARZON,E-commerce,Gold
+CUST205,Customer 6,CALABARZON,Wholesale,Gold
+CUST206,Customer 7,NCR,Wholesale,Silver
+CUST207,Customer 8,NCR,E-commerce,Silver
+CUST208,Customer 9,Mindanao,Retail,Silver
+CUST209,Customer 10,NCR,Retail,Silver
+CUST210,Customer 11,NCR,Manufacturing,Silver
+CUST211,Customer 12,NCR,Retail,Silver
+CUST212,Customer 13,CALABARZON,E-commerce,Silver
+CUST213,Customer 14,CALABARZON,E-commerce,Gold
+CUST214,Customer 15,NCR,E-commerce,Silver
+CUST215,Customer 16,CALABARZON,Retail,Silver
+CUST216,Customer 17,Mindanao,Manufacturing,Silver
+CUST217,Customer 18,CALABARZON,Retail,Silver
+CUST218,Customer 19,Mindanao,Manufacturing,Platinum
+CUST219,Customer 20,Visayas,Retail,Gold

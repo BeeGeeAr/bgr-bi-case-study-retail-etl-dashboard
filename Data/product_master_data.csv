@@ -1,0 +1,11 @@
+ProductID,ProductName,Category,UnitPrice,Status
+PROD100,Laptop,Electronics,16795,Active
+PROD101,Smartphone,Electronics,1860,Active
+PROD102,Tablet,Electronics,39158,Active
+PROD103,Monitor,Peripherals,45732,Active
+PROD104,Keyboard,Peripherals,12284,Active
+PROD105,Mouse,Peripherals,7265,Active
+PROD106,Printer,Peripherals,17850,Active
+PROD107,Webcam,Accessories,38194,Active
+PROD108,Headset,Accessories,22962,Discontinued
+PROD109,Charger,Accessories,48191,Discontinued
